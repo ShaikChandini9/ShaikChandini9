@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandini Shaik
 
-🎓 Master's in Computer Science @ Texas Tech University (Graduating Spring 2025)  
+🎓 Master's in Computer Science @ Texas Tech University (Graduated in Spring 2025)  
 💻 Backend Developer | Java | Spring Boot | REST APIs  
 📅 OPT Start Date: July 7, 2025  
 🌎 Passionate about building scalable, performance-driven backend systems
