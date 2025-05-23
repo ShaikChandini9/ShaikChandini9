@@ -15,13 +15,13 @@
 ### 🔧 Tech Stack
 
 - **Languages:** Java, Python, C, C++
-- **Backend Frameworks:** Spring Boot, Spring MVC
-- **Databases:** MySQL
-- **Version Control & Tools:** Git, GitHub, Docker, Jenkins
-- **Testing:** JUnit  
+- **Frameworks & Tools:** Spring Boot, Spring MVC, Spring Security, Hibernate, REST APIs, JWT, Maven
+- **Databases:** MySQL (Advanced indexing & query optimization)
+- **Version Control & CI/CD Tools:** Git, Jenkins, Docker, GitHub
+- **Testing & Quality:** JUnit, Mockito, SonarQube 
 - **Concepts:** Microservices, RESTful APIs, OOP  
 - **Tools:** IntelliJ, Eclipse, GitHub Desktop  
-- **Agile:** Scrum
+- **Agile:** Scrum, Agile
 
 ---
 
