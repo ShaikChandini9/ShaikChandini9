@@ -41,10 +41,6 @@
 - Built backend using Spring Boot + MySQL  
 - Room/staff management, booking services, JUnit testing  
 
-**Agro Crop Prediction System**  
-- ML-based app for farmers, improving crop decision-making  
-- Used Pandas, NumPy, Matplotlib  
-
 ---
 
 ### 📌 Featured Project
